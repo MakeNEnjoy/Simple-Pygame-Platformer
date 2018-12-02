@@ -1,4 +1,4 @@
-# Simply-Pygame-Platformer
+# Simple-Pygame-Platformer
 Simply sprite-based platformer built in python, pygame
 Run:
 
